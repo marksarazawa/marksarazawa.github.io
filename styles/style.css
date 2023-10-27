@@ -1,0 +1,17 @@
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.flex {
+    display: flex;
+}
+.justify-between {
+    justify-content: space-between;
+}
+nav {
+    margin-right: 40px;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
